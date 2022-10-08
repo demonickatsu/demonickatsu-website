@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: #008a94;
+  font-family: Roboto;
+  color: #b9dfd8;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-08T10:16:48-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Katsu’s World</title><subtitle>Hello! I&apos;m Katsu, and this is my new website. I&apos;ll just be putting  random stuff here like programs and videos I make. This page isn&apos;t  finished (and won&apos;t be for a while) so expect a lot of updates. Also, I&apos;m not going to put an email address here for a while. Enjoy!</subtitle><entry><title type="html">A proper introduction</title><link href="http://localhost:4000/introduction/2022/08/21/a-proper-introduction.html" rel="alternate" type="text/html" title="A proper introduction" /><published>2022-08-21T09:34:22-04:00</published><updated>2022-08-21T09:34:22-04:00</updated><id>http://localhost:4000/introduction/2022/08/21/a-proper-introduction</id><content type="html" xml:base="http://localhost:4000/introduction/2022/08/21/a-proper-introduction.html"><![CDATA[<p>Hi, I’m back after a while!
+I realized I never actually introduced myself, so here we are.
+My name is Katsu, and I write this website.
+This is like my 5th try at making a website,
+2 of them being suspended my my web host because no one went to them,
+and the other 2 still up, those 2 being <a href="http://weneedtotalk.rf.gd/">this one</a> and <a href="http://ratpasta.rf.gd">this one.</a> 
+There’s nothing really left to say, so goodbye!</p>
+
+<p>-Katsu</p>]]></content><author><name></name></author><category term="introduction" /><summary type="html"><![CDATA[Hi, I’m back after a while! I realized I never actually introduced myself, so here we are. My name is Katsu, and I write this website. This is like my 5th try at making a website, 2 of them being suspended my my web host because no one went to them, and the other 2 still up, those 2 being this one and this one. There’s nothing really left to say, so goodbye!]]></summary></entry><entry><title type="html">I made an archive of software! (woo, first blog post!)</title><link href="http://localhost:4000/archive/internet/software/first/post/2022/08/08/archive-released.html" rel="alternate" type="text/html" title="I made an archive of software! (woo, first blog post!)" /><published>2022-08-08T15:45:00-04:00</published><updated>2022-08-08T15:45:00-04:00</updated><id>http://localhost:4000/archive/internet/software/first/post/2022/08/08/archive-released</id><content type="html" xml:base="http://localhost:4000/archive/internet/software/first/post/2022/08/08/archive-released.html"><![CDATA[<p>Hey! This is my first post, so it might sound really… unprofessional. Sorry.
+But anyway, back to regularly scheduled programming. I made a software archive!</p>
+
+<p><strong>What does that mean?</strong></p>
+
+<p>It’s basically just a folder of software that’s either extremely hard to find or
+just not available anymore, like Flash Player. I found most of this by going though old
+download pages on the Internet Archive then downloading the files, then putting the files on here.
+It’s a complicated process, but at least it’s simpler now because of this. 
+I believe this qualifies as <a href="https://en.wikipedia.org/wiki/Fair_use">fair use</a>, so this is legal. I’m not claiming to own
+any of this software. I hope you like <a href="/software-archive/">the archive</a>.</p>
+
+<p><a href="/software-archive/">Oh, yeah, and here’s the link.</a></p>
+
+<p>Bye!</p>
+
+<p>-Katsu</p>]]></content><author><name></name></author><category term="archive" /><category term="internet" /><category term="software" /><category term="first" /><category term="post" /><summary type="html"><![CDATA[Hey! This is my first post, so it might sound really… unprofessional. Sorry. But anyway, back to regularly scheduled programming. I made a software archive!]]></summary></entry><entry><title type="html">Welcome to Jekyll! (default Jekyll blog post)</title><link href="http://localhost:4000/jekyll/update/2022/08/08/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll! (default Jekyll blog post)" /><published>2022-08-08T13:55:10-04:00</published><updated>2022-08-08T13:55:10-04:00</updated><id>http://localhost:4000/jekyll/update/2022/08/08/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/08/08/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
